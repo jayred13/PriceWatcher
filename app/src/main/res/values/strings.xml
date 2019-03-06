@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Price Watcher</string>
+    <string name="button_check_price">Check Price</string>
+    <string name="current_price">Current Price:</string>
+    <string name="initial_price">Initial Price:</string>
+    <string name="percent_change">Percent Change:</string>
+    <string name="initial_price_num">$0.00</string>
+    <string name="current_price_num">$0.00</string>
+    <string name="percent_symbol"> &#37;</string>
+    <string name="percent_change_num">0.00</string>
+    <string name="item_name">LCD Monitor</string>
+    <string name="view_page_button">View Page</string>
+</resources>
